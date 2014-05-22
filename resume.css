@@ -1,0 +1,116 @@
+#pageContainer {
+  width:700px;
+  margin: 0 auto;
+}
+h1 {
+  font-family: "Open Sans Condensed",sans-serif;
+  font-variant:small-caps;
+  font-size:400%;
+  width:300px;
+  height:200px;
+  margin:0 auto;
+  float:left;
+  position:relative;
+ 
+}
+
+.firstLetter {
+  color:#660066;
+  font-size:90px;
+  font-family:Courier monospace;
+  font-weight:2000;
+  font-style:normal;
+}
+#contactme {
+  position:relative;
+  width:auto;
+  height:100px;
+  float:right;
+  margin:0;
+  padding-top:48px;
+  padding-bottom:52px;
+  padding-left:20px;
+  text-align:center;
+  font-size:20px;
+  border-left:2px dotted #660066;
+ 
+
+  }
+ #contactname p {
+   bottom:0px;
+ } 
+ a:link {
+
+  font-weight:bold;
+  color: black;
+}
+a:hover{
+  text-decoration:underline;
+  color:#4B0082;
+  font-size:110%;
+}
+a:visited{
+	color:#778899;
+}
+
+
+h2{
+  color:#696969;
+  font-family:fantasy,san-serif;
+  font-variant:small-caps;
+  font-size:30px;
+  font-weight:100;
+  line-height:55px;
+  position:relative;
+  display:inline-block;
+  width:auto;
+  margin:0;
+}
+h3{
+  color:#660033;
+  border-bottom:1px solid #DCDCDC;
+}
+#content {
+  clear:both;
+  padding-top:10px;
+}
+.workDate {
+  font-style:italic;
+}
+p .workTitle {
+  font-weight:bold;
+  font-size:15px;
+}
+li {
+  list-style:circle;
+  font-family:Georgia, sans-serif;
+}
+
+.container {
+  position:relative;
+  height:auto;
+  border-top: 2px dotted #660066;
+  border-bottom:2px dotted #660066;
+  padding-top:10px;
+  padding-bottom:10px;
+  margin-top:2px;
+  line-height:50%;
+}
+
+#eduInfo {
+  position:relative;
+  display:inline-block;
+  margin-left:10px;
+ 
+}
+
+#interests {
+  font-size:20px;
+  display:inline-block;
+  margin-left:10px;
+}
+#volunteer {
+  display:inline-block;
+  margin-left:10px;
+  font-size:20px;
+}
